@@ -50,7 +50,7 @@ nsim <- 10000
 
 # Sample sizes to evaluate.
 # These are the possible backfilling cohort sizes.
-N_grid <- c(10, 15, 20, 25, 30)
+N_grid <- c(10, 15, 20, 25, 30,35,40,45,50)
 
 
 # ============================================================
